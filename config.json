@@ -1,0 +1,129 @@
+{
+  "language": "en",
+  "DeveloperMode": true,
+  "autoCreateDB": false,
+  "allowInbox": false,
+  "autoClean": false,
+  "adminOnly": false,
+  "encryptSt": true,
+  "UPTIME": 200,
+  "commandDisabled": [],
+  "eventDisabled": [],
+  "EMAIL": "",
+  "PASSWORD": "",
+  "OTPKEY": "",
+  "BOTNAME": "𝗕𝗢𝗧 𝓢𝓣𝓞𝓡𝓜✨💟",
+  "PREFIX": "☤",
+  "ADMINBOT": [
+    "100073563467859",
+    "100025073689878",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "100074749716054",
+    "61555139459279"
+  ],
+  "DESIGN": {
+    "Title": "BOTSTORM",
+    "Theme": "مصر",
+    "Admin": "ايهاب",
+    "Setup": {
+      "Title": "Design your own custom terminal Titlebar for the title and must contain no numbers",
+      "Theme": "Customize your console effortlessly with various theme colors. Explore Aqua, Fiery, Blue, Pink, Red, Retro, Sunlight, Teen, Summer, Flower, Ghost, and Hacker themes to enhance your terminal logs."
+    }
+  },
+  "APPSTATEPATH": "appstate.json",
+  "DEL_FUNCTION": false,
+  "ADD_FUNCTION": true,
+  "FCAOption": {
+    "forceLogin": true,
+    "listenEvents": true,
+    "autoMarkDelivery": false,
+    "autoMarkRead": false,
+    "pauseLog": true,
+    "logLevel": "silent",
+    "selfListen": true,
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/600.3.18 (KHTML, like Gecko) Version/8.0.3 Safari/600.3.18"
+  },
+  "version": "1.2.9",
+  "daily": {
+    "cooldownTime": 43200000,
+    "rewardCoin": 500
+  },
+  "work": {
+    "cooldownTime": 1200000
+  },
+  "help": {
+    "autoUnsend": false,
+    "delayUnsend": 20
+  },
+  "adminUpdate": {
+    "autoUnsend": true,
+    "sendNoti": true,
+    "timeToUnsend": 10
+  },
+  "adminNoti": {
+    "autoUnsend": true,
+    "sendNoti": true,
+    "timeToUnsend": 10
+  },
+  "math": {
+    "WOLFRAM": "T8J8YV-H265UQ762K"
+  },
+  "sing": {
+    "YOUTUBE_API": "AIzaSyCqox-KXEwDncsuo2HIpE0MF8J7ATln5Vc",
+    "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+  },
+  "video": {
+    "YOUTUBE_API": "AIzaSyDEE1-zZSRVI8lTaQOVsIAQFgL-_BJKvhk"
+  },
+  "audio": {
+    "YOUTUBE_API": "AIzaSyDEE1-zZSRVI8lTaQOVsIAQFgL-_BJKvhk"
+  },
+  "menu": {
+    "autoUnsend": true,
+    "delayUnsend": 60
+  },
+  "القراصنة": {
+    "autoUnsend": true,
+    "delayUnsend": 20
+  },
+  "منجم": {
+    "cooldownTime": 1000000
+  },
+  "صيد": {
+    "cooldownTime": 10000
+  },
+  "طقس ": {
+    "OPEN_WEATHER": "c4ef85b93982d6627681b056e24bd438"
+  },
+  "معلومات_ستورم": {
+    "autoUnsend": true,
+    "delayUnsend": 20
+  },
+  "مساعدة": {
+    "usePrefix": false,
+    "delayUnsend": 500
+  },
+  "الاوامر": {
+    "delayUnsend": 60
+  },
+  "القائمة": {
+    "autoUnsend": true,
+    "delayUnsend": 30
+  },
+  "طرق": {
+    "cooldownTime": 120
+  },
+  "لقب": {
+    "APIKEY": "mi451266190"
+  },
+  "بنك": {
+    "APIKEY": "chinhdz"
+  },
+  "فيديو": {
+    "YOUTUBE_API": "AIzaSyDEE1-zZSRVI8lTaQOVsIAQFgL-_BJKvhk"
+  }
+}
